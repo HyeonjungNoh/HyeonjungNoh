@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=90)
 
-<div align="center"> 📚Tech Stack📚 </div>
+<div align="center"> 📚 Tech Stack 📚 </div>
 
 <div align="center">
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
@@ -29,10 +29,9 @@ Here are some ideas to get you started:
 </div>
 
 
-
-
 <div align="center">
 	<img src="https://img.shields.io/badge/telegram-26A5E4?style=flat&logo=telegram&logoColor=white"/>
+	<img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"/>
 	<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>
 </div>
 
