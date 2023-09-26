@@ -33,5 +33,6 @@ Here are some ideas to get you started:
 
 <div align="center">
 	<img src="https://img.shields.io/badge/telegram-26A5E4?style=flat&logo=telegram&logoColor=white"/>
+	<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>
 </div>
 
