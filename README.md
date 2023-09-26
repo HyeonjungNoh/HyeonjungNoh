@@ -27,3 +27,6 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/raspberrypi-A22846?style=flat&logo=raspberrypi&logoColor=white"/>
 	<img src="https://img.shields.io/badge/arduino-00878F?style=flat&logo=arduino&logoColor=white"/>
 </div>
+
+<img src="https://img.shields.io/badge/telegram-26A5E4?style=flat&logo=telegram&logoColor=white"/>
+
